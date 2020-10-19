@@ -1,2 +1,5 @@
 # yazilim
-Merhaba bu kısımda yazılım ile ilgili projeler paylaşacağım.
+Merhaba discord botumun kaynak kodlarını paylaşacağım.
+----------------------------------------------------
+Hello everyone i'm sharing a my discord bot codes.
+------------------------------------------------
